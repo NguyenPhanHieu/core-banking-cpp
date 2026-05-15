@@ -8,4 +8,5 @@ include_directories(include)
 
 add_executable(core_banking
     src/main.cpp
+    src/account.cpp
 )
